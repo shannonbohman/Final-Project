@@ -5,6 +5,8 @@ How do the East Asian Monsoon and ENSO phases impact the spatial variablity of S
 The Global ARMOR3D L4 Reprocessed dataset: It consists of 3D Temperature, Salinity, Heights and Geostrophic Currents, available on a 1/4 degree regular grid and on 33 depth levels from the surface down to the bottom.
 http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=details&product_id=MULTIOBS_GLO_PHY_REP_015_002
 
+This project uses the weekly dataset.
+
 To download data from this site:
 - Go to http://marine.copernicus.eu/
 - Click on Data
