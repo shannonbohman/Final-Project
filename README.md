@@ -12,7 +12,6 @@ To download data from this site:
 - Click on Data
 - Select data. When you try to download, you will be asked to create an account. Once you have a username and password, you can download the data.
 
-
 # Planned analysis: 
 Figure 1 will contain four maps to give a general understanding of the spatial distribution of SST and SSH at different phases in the El Nino Southern Oscillation and East Asian Monsoon. The first map will show SSH anomaly in the entire Bay of Bengal on January 15, 2000 (winter monsoon and La Nina). The second map will show SSH anomaly on July 15, 2000 (summer monsoon and La Nina). The third map will show the SSH anomaly from January of 2005 (winter monsoon and El Nino), and the fourth map will show the SSH anomaly from July of 2005 (summer monsoon and El Nino). I'd like to visually determine which ENSO-EAM pairing demonstrates the most clearly defined "freckled face" in the Bay of Bengal (as opposed to a spatially uniform face).
 
