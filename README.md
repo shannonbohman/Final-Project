@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/shannonbohman/Final-Project/14871eeb233b9e5cb2fd87a5310b8e3fcac2de50
+Run in binder: https://mybinder.org/v2/gh/shannonbohman/Final-Project/14871eeb233b9e5cb2fd87a5310b8e3fcac2de50
 
 # Scientific question to investigate: 
 How do the East Asian Monsoon and ENSO phases impact the spatial variablity of SST and SSH in the Bay of Bengal?
