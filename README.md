@@ -1,6 +1,6 @@
 Run in binder: https://mybinder.org/v2/gh/shannonbohman/Final-Project/master
 
-# Analysis:
+# Project objective:
 A spatial and temporal analysis of sea surface height, sea surface temperature, and mixed layer depth in the Bay of Bengal (BoB)
 
 # Data: 
